@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://betaapikey.herokuapp.com" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript" width="55" height="55"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="nodejs" width="55" height="55"/> </a> </p>
 
-- 🤝 I just copy paste
+- 🤝 Aprenda A Fazer Suas Próprias Coisas E Não Kibar!
 
-- 📫 How to reach me  [`Whatsapp`](https://wa.me/6285803583481?text=halo+bang)
+- 📫 Fale Comigo: [`Whatsapp`](https://wa.me/556196697514?text=Olá)
 
 - ⚡ My hobby is make a rest api
 
