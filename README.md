@@ -3,7 +3,7 @@
 Sou um desenvolvedor apaixonado por JavaScript gosto de aprender e criar coisas novas. Atualmente, estou focado em JavaScript E HTML.
 
 ### 🔭 O que estou trabalhando atualmente
-- Mikasa Bot (link-para-o-projeto)
+- Mikasa Bot (https://vortexuscloud.com.br)
 - [Projeto 2](link-para-o-projeto)
 
 ### 🌱 O que estou aprendendo
