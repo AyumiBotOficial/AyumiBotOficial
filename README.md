@@ -1,9 +1,9 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Lukas 👋
 
-Sou um desenvolvedor apaixonado por [área de interesse] e gosto de aprender e criar coisas novas. Atualmente, estou focado em [projetos ou tecnologias].
+Sou um desenvolvedor apaixonado por JavaScript gosto de aprender e criar coisas novas. Atualmente, estou focado em JavaScript E HTML.
 
 ### 🔭 O que estou trabalhando atualmente
-- [Projeto 1](link-para-o-projeto)
+- Mikasa Bot (link-para-o-projeto)
 - [Projeto 2](link-para-o-projeto)
 
 ### 🌱 O que estou aprendendo
