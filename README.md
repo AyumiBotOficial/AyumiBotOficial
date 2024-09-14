@@ -26,7 +26,6 @@
 
 ![https://github-readme-stats.vercel.app/api?username=AyumiBotOficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=AyumiBotOficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
 
-## ⌨️ Is My Project
-* Rest-Api [`BetaApikey`](https://betaapikey.herokuapp.com)
-* My Sc Apikey [`ERLANRAHMAT`](https://github.com/ERLANRAHMAT/apikeys)
+## ⌨️ Meus Projetos
+* Rest-Api [`BetaApikey`](http://br1.bronxyshost.com:4179)
 * 
