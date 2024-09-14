@@ -22,9 +22,9 @@
 
 - 📫 Fale Comigo: [`Whatsapp`](https://wa.me/556196697514?text=Olá)
 
-- ⚡ My hobby is make a rest api
+- ⚡ Meu Hobby É Criar Projetos E Ajudar Os Mais Necessitados Nessa Web Falida!
 
-![https://github-readme-stats.vercel.app/api?username=ERLANRAHMAT&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=ERLANRAHMAT&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
+![https://github-readme-stats.vercel.app/api?username=AyumiBotOficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=AyumiBotOficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
 
 ## ⌨️ Is My Project
 * Rest-Api [`BetaApikey`](https://betaapikey.herokuapp.com)
