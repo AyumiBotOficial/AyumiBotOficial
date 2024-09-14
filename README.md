@@ -5,13 +5,12 @@
 
 <p align="center">
 
-- 👼 My name is Lann
+- 👼 Nome: Lukasz
 
-- 🗣️ I am 16 years old 
+- 🗣️ Idade: 19 Anos
 
-- 🔭 I am Not programmer
- 
-- 😎 I am Like Bot & Website
+- 🔭 Desenvolvedor De Bots
+
 </p>
 
 
