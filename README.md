@@ -22,9 +22,9 @@
 
 - 📫 Fale Comigo: [`Whatsapp`](https://wa.me/556196697514?text=Olá)
 
-- ⚡ Meu Hobby É Criar Projetos Pra Esses Kibadores Kibar I Dizer Que Fez!
+- ⚡ Meu Hobby É Criar Projetos Pra Esses Kibadores Kibar E Dizer Que Fez!
 
 ![https://github-readme-stats.vercel.app/api?username=AyumiBotOficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=AyumiBotOficial&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
 
 ## ⌨️ Meus Projetos
-* Rest-Api [`BetaApikey`](http://br1.bronxyshost.com:4179)
+* Rest-Api [`Fase Beta`](http://br1.bronxyshost.com:4179)
