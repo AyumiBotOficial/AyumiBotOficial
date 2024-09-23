@@ -1,4 +1,4 @@
-<h1 align="center">Lukasz<img src="https://raw.githubusercontent.com/AyumiBotOficial/links-img/main/Upload-18085.jpg" width="40px" alt=""><br></h1>
+<h1 align="center">Lukasz</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/AyumiBotOficial/links-img/main/Upload-18085.jpg" />
 </p>
